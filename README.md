@@ -3,7 +3,7 @@ I'm interested in web development, I'm a Back-End developer with 2 years of expe
 JavaScript in the Back-End, I'm currently learning Angular with the goal of create Hybrid Mobile Apps.
 
 Contact me:
-[link]https://www.linkedin.com/in/iv%C3%A1n-alejandro-rodr%C3%ADguez-quiroz-3493191b2/
+[(https://www.linkedin.com/in/iv%C3%A1n-alejandro-rodr%C3%ADguez-quiroz-3493191b2/)]
 
 <!---
 Ivan-Quiroz/Ivan-Quiroz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
